@@ -6,7 +6,8 @@ This is an example of using Semantic HTML and applying Style with CSS to the Hor
 
 ## Table Of Contents
 
-1. [Acceptance Criteria] #acceptancecriteria
+1. [Acceptance Criteria](#acceptance-criteria)
+2. 
 
 ## Acceptance Criteria
 
