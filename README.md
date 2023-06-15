@@ -28,7 +28,7 @@ This is an example of using Semantic HTML and applying Style with CSS to the Hor
 
 ## Application/Deployed Page URL
 
-[ file:///C:/Users/sbeha/bootcamp/semantic-html/index.html](https://sbehashti.github.io/Code-Refactor-For-Horiseon/)
+https://sbehashti.github.io/Code-Refactor-For-Horiseon/
 
 ## Deployed Page 
 
@@ -37,4 +37,4 @@ This is an example of using Semantic HTML and applying Style with CSS to the Hor
 ## Credits
 
 * UCD Coding Bootcamp for Horiseon Webpage
-* Refactoring done by Sier Behashti [@github.com/Sbehashti](https://github.com/Sbehashti)https://github.com/Sbehashti
+* Refactoring done by Sier Behashti https://github.com/Sbehashti
