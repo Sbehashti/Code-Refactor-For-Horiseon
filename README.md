@@ -37,4 +37,4 @@ This is an example of using Semantic HTML and applying Style with CSS to the Hor
 ## Credits
 
 * UCD Coding Bootcamp for Horiseon Webpage
-* Refactoring done by Sier Behashti github.com/Sbehashti
+* Refactoring done by Sier Behashti @github.com/Sbehashti
