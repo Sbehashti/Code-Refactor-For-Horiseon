@@ -7,7 +7,7 @@ This is an example of using Semantic HTML and applying Style with CSS to the Hor
 ## Table Of Contents
 
 1. [Acceptance Criteria](#acceptance-criteria)
-2. 
+2. [Application/Deployed Page URL](#application/deployed-page-url)
 
 ## Acceptance Criteria
 
@@ -16,3 +16,10 @@ This is an example of using Semantic HTML and applying Style with CSS to the Hor
 * WHEN I view the image elements,THEN I find accessible alt attributes;
 * WHEN I view the heading attributes,THEN they fall in sequential order;
 * WHEN I view the title element,THEN I find a concise, descriptive title;
+
+## Application/Deployed Page URL
+
+ file:///C:/Users/sbeha/bootcamp/semantic-html/index.html
+
+## Deployed Page 
+
