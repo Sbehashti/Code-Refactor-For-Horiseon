@@ -1,4 +1,4 @@
-# semantic-html
+# Refactoring Code For Horiseon
 An example of using Semantic HTML and applying Style with CSS to the Horiseon Webpage while refactoring the given code. 
 
 ## User Story
