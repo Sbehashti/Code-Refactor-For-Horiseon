@@ -1,5 +1,5 @@
 # Refactoring Code For Horiseon
-An example of using Semantic HTML and applying Style with CSS to the Horiseon Webpage while refactoring the given code. 
+An example of using Semantic HTML and applying Style with CSS to the Horiseon Webpage while refactoring the given code. I was tasked with addressing certain bugs and issues in regards to the Horiseon Webpage to allow for a better flow and structure to more efficently provid einformation not only to a website visitor, but also to the hardware the webpage is accesed from, specifically a desktop. 
 
 ## User Story
 AS A marketing agency
