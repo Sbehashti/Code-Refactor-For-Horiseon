@@ -22,7 +22,7 @@ This is an example of using Semantic HTML and applying Style with CSS to the Hor
 ## Refactor/Adjustments To Code
 
 * Added a website title to display in web browser tab and define webpage
-* Refactored HTML to include Semantic Elements to define the different aspects of the webpage and provide structure and order
+* Refactored HTML to include Semantic Elements to define the different aspects of the webpage to provide structure and order
 * Refactored Style Sheet using CSS and debugged sheet by removing duplicate code and linking certain HTML elements together to have a common CSS Style applied to these elements
 
 ## Application/Deployed Page URL
