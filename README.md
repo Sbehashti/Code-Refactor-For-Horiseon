@@ -10,6 +10,7 @@ This is an example of using Semantic HTML and applying Style with CSS to the Hor
 2. [Refactor/Adjustments To Code](#refactor/adjustments-to-code)
 3. [Application/Deployed Page URL](#application/deployed-page-url)
 4. [Deployed Page](#deployedpage)
+5. [Credits](#credits)
 
 ## Acceptance Criteria
 
@@ -33,4 +34,7 @@ This is an example of using Semantic HTML and applying Style with CSS to the Hor
 
 ![_C__Users_sbeha_bootcamp_semantic-html_index html](https://github.com/Sbehashti/Code-Refactor-For-Horiseon/assets/135624229/2bdde746-81ba-48ba-8c37-99b4b984cf2a)
 
+## Credits
 
+* UCD Coding Bootcamp for Horiseon Webpage
+* Refactoring done by Sier Behashti 
