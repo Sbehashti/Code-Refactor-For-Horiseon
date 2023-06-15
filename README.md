@@ -7,7 +7,9 @@ This is an example of using Semantic HTML and applying Style with CSS to the Hor
 ## Table Of Contents
 
 1. [Acceptance Criteria](#acceptance-criteria)
-2. [Application/Deployed Page URL](#application/deployed-page-url)
+2. [Refactor/Adjustments To Code](#refactor/adjustments-to-code)
+3. [Application/Deployed Page URL](#application/deployed-page-url)
+4. [Deployed Page](#deployedpage)
 
 ## Acceptance Criteria
 
@@ -17,9 +19,18 @@ This is an example of using Semantic HTML and applying Style with CSS to the Hor
 * WHEN I view the heading attributes,THEN they fall in sequential order;
 * WHEN I view the title element,THEN I find a concise, descriptive title;
 
+## Refactor/Adjustments To Code
+
+* Added a website title to display in web browser tab and define webpage
+* Refactored HTML to include Semantic Elements to define the different aspects of the webpage and provide structure and order
+* Refactored Style Sheet using CSS and debugged sheet by removing duplicate code and linking certain HTML elements together to have a common CSS Style applied to these elements
+
 ## Application/Deployed Page URL
 
  file:///C:/Users/sbeha/bootcamp/semantic-html/index.html
 
 ## Deployed Page 
+
+![_C__Users_sbeha_bootcamp_semantic-html_index html](https://github.com/Sbehashti/Code-Refactor-For-Horiseon/assets/135624229/2bdde746-81ba-48ba-8c37-99b4b984cf2a)
+
 
